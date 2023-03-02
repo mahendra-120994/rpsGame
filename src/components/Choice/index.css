@@ -1,0 +1,14 @@
+.choice-btn {
+  margin: 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.choice-img {
+  width: 150px;
+}
+@media screen and (max-width: 767px) {
+  .choice-img {
+    width: 100px;
+  }
+}
